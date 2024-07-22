@@ -197,49 +197,49 @@ section {
 }
 
 #gallery .element1 {
-    background-image: url("../tapiceria_rodriguez/sala.jpg");
+    background-image: url("sala.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element2 {
-    background-image: url("../tapiceria_rodriguez/sofa.jpg");
+    background-image: url("sofa.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element3 {
-    background-image: url("../tapiceria_rodriguez/silla.jpg");
+    background-image: url("silla.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element4 {
-    background-image: url("../tapiceria_rodriguez/aburete.jpg");
+    background-image: url("taburete.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element5 {
-    background-image: url("../tapiceria_rodriguez/figura.jpg");
+    background-image: url("figura.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element6 {
-    background-image: url("../tapiceria_rodriguez/diseño.jpg");
+    background-image: url("diseño.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element7 {
-    background-image: url("../tapiceria_rodriguez/cama.jpg");
+    background-image: url("cama.jpg");
     background-position: center;
     background-size: cover;
 }
 
 #gallery .element8 {
-    background-image: url("../tapiceria_rodriguez/tela.jpg");
+    background-image: url("tela.jpg");
     background-position: center;
     background-size: cover;
 }
