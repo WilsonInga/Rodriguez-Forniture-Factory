@@ -197,7 +197,7 @@ section {
 }
 
 #gallery .element1 {
-    background-image: "sala.jpg";
+    background-image: url("sala.jpg");
     background-position: center;
     background-size: cover;
 }
